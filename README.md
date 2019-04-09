@@ -1,2 +1,2 @@
 # LogicInComputerScience
-# some code in the course of LogicInComputerScience 
+# some code from the course of LogicInComputerScience 
